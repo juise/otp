@@ -37,7 +37,7 @@
 
 /* Uncomment this to keep individual stats for all
    of the bifs when extended states is enabled */
-/* #define ERTS_MSACC_EXTENDED_BIFS 1 */
+#define ERTS_MSACC_EXTENDED_BIFS 1
 
 #define ERTS_MSACC_DISABLE 0
 #define ERTS_MSACC_ENABLE  1
